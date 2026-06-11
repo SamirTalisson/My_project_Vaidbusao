@@ -50,6 +50,10 @@ VaidBusão é um sistema de controle de embarque para transporte escolar e unive
    - Nome: Samir
    - Email: sam@gmail.com
    - Senha: 123
+  
+## Painel de ADM
+
+Esta parte é mais um adendo, sobre as configurações de fechar tabela, agendar reaberturar e abrir imediatamente, as duas primeiras tem a opção de agendar um horário específico para elas acontecerem, caso deseje testar os 2 primeiros botôes, sugerimos que coloque o mesmo horário em seu relógio, para não ocorrer erros.
 
 ## Observações
 - O sistema cria automaticamente os bancos de dados necessários na primeira execução.
