@@ -56,3 +56,8 @@ VaidBusão é um sistema de controle de embarque para transporte escolar e unive
 - O tema selecionado é salvo em settings.json para ser mantido entre execuções.
 - O sistema cria automaticamente os bancos de dados necessários na primeira execução.
 - O tema selecionado é salvo em settings.json para ser mantido entre execuções.
+
+## Integrantes
+- Samir Talisson de Andrade Moraes
+- Marcos Antônio Epifânio dos Santos Castro
+- Sophia Riedel Trigueiro Korinfsky
